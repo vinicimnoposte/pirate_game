@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 18f27d305e7fc684386e75a4c7d62f3a
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arpao_base
+    second: {fileID: 2100000, guid: 1043cdea372fb3841b621116ae62c452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arpao_ponta
+    second: {fileID: 2100000, guid: 6d9484fe1f565fb46970d322d813dfc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barril_metal
+    second: {fileID: 2100000, guid: 9dbbf409946d08a4aa4df257befaedb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bau_chave_interior
+    second: {fileID: 2100000, guid: 2318cce9de5987149bf73d42a959a64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bau_material
+    second: {fileID: 2100000, guid: 5af5bd0c56ef3094690d3321b91f5e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bau_metal
+    second: {fileID: 2100000, guid: c2fccf45fd29eac4eaf39c84ba9a001a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canhao_acendedor1
+    second: {fileID: 2100000, guid: aa0d55004f6e1ed498265cdc78d5b048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canhao_acendedor_ponta
+    second: {fileID: 2100000, guid: 3f3c89b7de760334489a6f0b5f0f8207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canhao_canhao
+    second: {fileID: 2100000, guid: 4f0269871aa425f4392022874a082b5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canhao_roda_material
+    second: {fileID: 2100000, guid: a701dd4154c60c54b97682ceb769de0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caveiro_material
+    second: {fileID: 2100000, guid: a169b62d069350a46bfd75440b04fc49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: e871b1791ff9ded408391dfc57e632db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 0856caaf70cc022439e1b9ff57fc3958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moeda1_material
+    second: {fileID: 2100000, guid: b4084e09fc1f8c54bbe84ccca05a1111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moeda2_material
+    second: {fileID: 2100000, guid: ded7cb5a3b1c12a419fd2a674d8c494a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moeda3_material1
+    second: {fileID: 2100000, guid: 7d4d218949938f24490e499ddebefd36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moeda3_material2
+    second: {fileID: 2100000, guid: 555019f134820ac48848b30d9c89c9aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moeda4_material1
+    second: {fileID: 2100000, guid: 14ff037c3fa6d024daf119133efcb131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: moeda4_material2
+    second: {fileID: 2100000, guid: 6c4368ff5a878a44faddf27e607ade10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: osso3
+    second: {fileID: 2100000, guid: 01898d113d838ab48bad0e9b5ac8f8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pano_barril2
+    second: {fileID: 2100000, guid: ab9fb8c61b4a692488d9d2053734e02a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vela1
+    second: {fileID: 2100000, guid: 5830b42fded693546a3b0d2ba0db593c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vela_corda_cor
+    second: {fileID: 2100000, guid: bb3b41850c5066e488a1e0504748ae11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vela_prato
+    second: {fileID: 2100000, guid: 57246492c6a78a549ba55a335cac1d5f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cera_estilizada2
+    second: {fileID: 2800000, guid: 33d24aca6ff12de4484665d7937b43cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dourado_estilizado
+    second: {fileID: 2800000, guid: b9415d0a6524b34488a3af395ac6ac8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dourado_estilizado3
+    second: {fileID: 2800000, guid: 79d4ca587a1ff0147b45b241905a6e24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: madeira_cerca_estilizada
+    second: {fileID: 2800000, guid: 034057c8a18f3ea4fa1c975e7d1fbbf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: madeira_estilizada_copiar
+    second: {fileID: 2800000, guid: 0ee9bb7f103274947ad60f7d9638fbd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_estilizado
+    second: {fileID: 2800000, guid: 93021e4e30c07fd4c8b8c79d5541dcac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_estilizado_escura
+    second: {fileID: 2800000, guid: af0dee61dfa71d04ca73f284e7eeadca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: osso_estilizado
+    second: {fileID: 2800000, guid: d959cbe0a6dad514fb9f00875229735a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
